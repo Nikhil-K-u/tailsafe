@@ -217,4 +217,4 @@ See [`docs/api_endpoints.md`](docs/api_endpoints.md) for the full API reference 
 
 ## 📄 License
 
-No license has been chosen yet. All rights reserved until one is added.
+This project is licensed under the [MIT License](LICENSE).
