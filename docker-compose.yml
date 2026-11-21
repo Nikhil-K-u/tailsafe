@@ -7,8 +7,6 @@ services:
       MYSQL_DATABASE: ${DB_SCHEMA}
       MYSQL_USER: ${DB_USER}
       MYSQL_PASSWORD: ${DB_PASSWORD}
-    depends_on:
-      - frontend
     volumes:
       - mysql-data:/var/lib/mysql
     healthcheck:
